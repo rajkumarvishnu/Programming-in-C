@@ -36,6 +36,8 @@ C is a general-purpose programming language that provides low-level access to me
 - **Rich Library Support**: The C standard library provides a wide range of functions for tasks such as input/output, string manipulation, and memory management.
 - **Structured Programming**: C supports structured programming, which helps in organizing code into reusable functions.
 
+---
+
 ## 2. Setting Up the Development Environment
 
 To start programming in C, you need a development environment that includes:
@@ -55,6 +57,8 @@ To start programming in C, you need a development environment that includes:
 
 3. **For Linux**:
    - Most distributions come with GCC pre-installed. If not, you can install it using your package manager (e.g., `sudo apt install gcc` for Debian-based systems).
+
+---
 
 ## 3. Basic Structure of a C Program
 
@@ -76,7 +80,6 @@ int main() {
 void greet() {
     printf("Hello, World!\n");
 }
-```
 
 ### Explanation:
 
