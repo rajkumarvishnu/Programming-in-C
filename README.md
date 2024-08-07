@@ -1,7 +1,7 @@
 # Programming-in-C
 
 
-```markdown
+
 # C Programming: A Comprehensive Guide
 
 ## Table of Contents
