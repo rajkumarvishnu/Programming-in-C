@@ -80,7 +80,7 @@ int main() {
 void greet() {
     printf("Hello, World!\n");
 }
-
+```
 ### Explanation:
 
 - **Preprocessor Directive**: `#include <stdio.h>` includes the standard input/output library, allowing the use of functions like `printf()`.
