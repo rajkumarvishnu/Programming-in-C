@@ -1,5 +1,5 @@
 # Programming-in-C
-Certainly! Below is the content formatted as a Markdown file. You can copy and paste this into a `.md` file.
+
 
 ```markdown
 # C Programming: A Comprehensive Guide
